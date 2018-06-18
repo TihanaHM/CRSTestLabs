@@ -1,6 +1,9 @@
 page 50115 Addresses
 {
     PageType = Card;
+    InsertAllowed = false;
+    DeleteAllowed = false;
+    ModifyAllowed = true;
     
     layout
     {
